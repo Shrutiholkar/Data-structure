@@ -1,3 +1,4 @@
+//write c program which accept the string and reverse each word of the string using stack
 #include<stdio.h>
 #include<string.h>
 #define MAX 50
